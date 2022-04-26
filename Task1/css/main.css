@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+}
+html{
+  background: url("/Task1/images/stares.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.logo {
+  background-color: #1a1720;
+  padding-left: 30px;
+}
+.logo img {
+  width: 70px;
+}
+.content a {
+  background-color: #ff5b02;
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  border-radius: 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.content{
+    margin-top: 260px;
+    margin-left: 100px;
+    font-size: x-large
+}
+h1 span{
+  color: #ff5b02;
+}
